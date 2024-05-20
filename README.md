@@ -25,3 +25,16 @@ Create a Node.js application with Express.js using the provided `index.mjs` and 
 ### 2. Dockerize the Application
 
 Create a Dockerfile in the root of your project to package the Node.js application into a Docker container.
+
+## Screenshots
+
+### Include screenshots of the following:
+
+   - Docker build process
+     
+   - Pushing Docker image to Docker Hub
+     
+   - Applying deployment and service manifests in Kubernetes
+     
+   - Accessing the deployed application in a web browser
+   
